@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: Sunday 20th Nov 2022
+### Day 0: Monday 21st Nov 2022
 
-**About Me**: Started the 100DaysOfCode challenge today, focusing on learning Python. I work on AWS/GCP mainly in the DevOps space but I'm a newbie coder with very basic knowledge/skills to date. Looking to use this commnunity to hold myself accountable and stop making excuses why im russbish at coding.
+**About Me**: Started the 100DaysOfCode challenge today, focusing on learning Python. I work on AWS/GCP in the DevOps space but I'm a newbie coder with very basic knowledge/skills to date. Looking to use this commnunity to hold myself accountable and stop making excuses why im russbish at coding.
 
 To begin with I wont be working on projects whilst i get a proper handel on the basics, hopefully thats somehtung i'll be capable of by day 30.
 
