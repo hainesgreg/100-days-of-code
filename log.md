@@ -10,7 +10,7 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 
 **Thoughts:** I now have a good handel on the above concepts, still have a bit mote work to do on if/elif/else, wil have another hour on this subject tomorrow before moving on.
 
-**Todays Output** Today ive been working on writing a BMI calculator and also an app to tell you if i given year is a leap year.
+**Todays Output:** Today ive been working on writing a BMI calculator and also an app to tell you if i given year is a leap year.
 
 
 ### Day 0: February 30, 2016 (Example 2)
