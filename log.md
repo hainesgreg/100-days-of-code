@@ -4,7 +4,7 @@
 
 **About Me**: Started the 100DaysOfCode challenge today, focusing on learning Python. I work on AWS/GCP in the DevOps space but I'm a newbie coder with very basic knowledge/skills to date. Looking to use this commnunity to hold myself accountable and stop making excuses why im russbish at coding.
 
-To begin with I wont be working on projects whilst i get a proper handel on the basics, hopefully thats somehtung i'll be capable of by day 30.
+To begin with I wont be working on projects whilst i get a proper handel on the basics, hopefully thats something i'll be capable of by day 30.
 
 **Today's Progress**: Today ive been working with operators(= == != < >), control flow and conditionals, if/else/elif.
 
