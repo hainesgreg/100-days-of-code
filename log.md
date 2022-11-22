@@ -2,33 +2,30 @@
 
 ### Day 0: Tues 22nd Nov 2022
 
-**About Me**: Started the 100DaysOfCode challenge today, focusing on learning Python. I work on AWS/GCP in the DevOps space but I'm a newbie coder with very basic knowledge/skills to date. Looking to use this commnunity to hold myself accountable and stop making excuses why im russbish at coding.
+**About Me**: I started the 100DaysOfCode challenge today, focusing on learning Python. I work in the cloud computing domain (AWS/GCP) and have good open source tooling knowlegde (Terraform, Docker etc), but my coding skills (or lack of) have always held me back. I've attempted to learn to code more time that I care to remember, today I made the decision to stop making excuses, today is the day I hold myself accountable. 
 
-To begin with I wont be working on projects whilst i get a proper handel on the basics, hopefully thats something i'll be capable of by day 30.
+To begin with I wont be working on projects whilst i get a proper handel on the basics, hopefully this is something i'll be capable of by day 30.
 
-**Today's Progress**: Today ive been working with operators(= == != < >), control flow and conditionals, if/else/elif.
+**Today's Progress**: Today ive been working with operators(= == != < >), control flow and conditionals(if/else/elif).
 
 **Thoughts:** I now have a good handel on the above concepts, still have a bit mote work to do on if/elif/else, wil have another hour on this subject tomorrow before moving on.
 
 **Todays Output:** Today ive been working on writing a BMI calculator and also an app to tell you if a given year is a leap year, or not.
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: Weds 23rd, Nov 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 2: Day 1: Thurs 24th, Nov 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
