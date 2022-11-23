@@ -15,11 +15,11 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 
 ### Day 1: Weds 23rd, Nov 2022
 
-**Today's Progress**: 
+**Today's Progress**: Continued on with conditionals today, nested and multiple if statements.
 
-**Thoughts**: 
+**Thoughts**: Was difficult to understand to begin with but got my head around it eventually. Still a bit more on conditionals to do tomorrow before i can wrap this section up and move on.
 
-**Link(s) to work**: 
+**Link(s) to work**: I worked on a writing a pizza order app where i got to put my nested and multiple if statement knowledge to the test.
 
 
 ### Day 2: Day 1: Thurs 24th, Nov 2022
