@@ -6,7 +6,7 @@
 
 To begin with I wont be working on projects whilst i get a proper handel on the basics, hopefully this is something i'll be capable of by day 30.
 
-**Today's Progress**: Today ive been working with operators(= == != < >), control flow and had an intro to conditionals(if/else/elif).
+**What I Covered Today**: Today ive been working with operators(= == != < >), control flow and had an intro to conditionals(if/else/elif).
 
 **Thoughts:** I now have a good handel on the above concepts, still have a bit mote work to do on if/elif/else, wil have another hour on this subject tomorrow before moving on.
 
@@ -15,7 +15,7 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 
 ### Day 2: Weds 23rd, Nov 2022
 
-**Today's Progress**: Continued on with conditionals today, nested and multiple if statements.
+**What I Covered Today**: Continued on with conditionals today, nested and multiple if statements.
 
 **Thoughts**: Was difficult to understand to begin with but got my head around it eventually. Still a bit more on conditionals to do tomorrow, where we take a look at logical operators(AND / OR / NOT). 
 
@@ -24,8 +24,16 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 
 ### Day 3: Friday 25th, Nov 2022
 
-**Today's Progress**: Continued on with conditionals and tackled logical operators (AND / OR / NOT) today.
+**What I Covered Today**: Continued on with conditionals and tackled logical operators (AND / OR / NOT) today.
 
 **Thoughts** The introduction of logical operator answered a few questions i had going around in my head, together with conditionals they start to make things make more sense. Only the final project left in this section where all of the skills used thus far will come into play, will tackle that on Monday as its the weekend tomorrow and my head needs a rest. Very much enjoying the journey so far, taking small bitesize chunks of information onboard is working well for me so will continue in this fashion going forward. 
 
 ***Todays Output:** I created a true love calculator where you had to use the logical operator knowledge and also some built-in functions too, (count) and (lower).
+
+### Day 4: Monday 28th, Nov 2022
+
+**What I Covered Today**: Started learning Lists[] and indexing today. Also got exposure to the more built-in functions random and split.
+
+**Thoughts** 
+
+***Todays Output:** 
