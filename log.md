@@ -32,7 +32,7 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 
 ### Day 4: Monday 28th, Nov 2022
 
-**What I Covered Today**: Started learning Lists[] and indexing them today. Also got exposure to the more built-in functions, random and split.
+**What I Covered Today**: Started learning Lists[] and indexing them today. Also got exposure to the more built-in functions, random and split. Not feeling very well today so its been a pretty slow day, finding it hard to concentrate.
 
 **Thoughts** 
 
