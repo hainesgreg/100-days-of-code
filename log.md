@@ -34,6 +34,11 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 
 **What I Covered Today**: Started learning Lists[] and indexing them today. Also got exposure to the more functions, random and split. Not feeling very well today so its been a pretty slow day, finding it hard to concentrate.
 
-**Thoughts** 
+### Day 4: Thursday 1st, Dec 2022
+
+**What I Covered Today**: After a few days laid up in bed it was back to the grind as i continued on with learning about lists and indexing. Today also involved creating a rock/paper/scissors game where i needed to lean on my knowldge of if/elif/else statements, use of the random function and also ascii art for producing basic images. 
 
 ***Todays Output:** 
+Check out my rock/paper/scissors game created in Replit.
+
+https://replit.com/@hainesgreg/rock-paper-scissors-start#main.py
