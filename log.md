@@ -30,11 +30,11 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 
 ***Todays Output:** I created a true love calculator where you had to use the logical operator knowledge and also some built-in functions too, (count) and (lower).
 
-### Day 4: Monday 28th, Nov 2022
+### Day 5: Monday 28th, Nov 2022
 
 **What I Covered Today**: Started learning Lists[] and indexing them today. Also got exposure to the more functions, random and split. Not feeling very well today so its been a pretty slow day, finding it hard to concentrate.
 
-### Day 4: Monday 5th, Dec 2022
+### Day 6: Monday 5th, Dec 2022
 
 **What I Covered Today**: After spending the last week laid up in bed it was back to the grind today as i continued on with learning about lists and indexing. Today also involved creating a rock/paper/scissors game where i needed to lean on my knowldge of if/elif/else statements, use of the random function and also ascii art for producing basic images. 
 
