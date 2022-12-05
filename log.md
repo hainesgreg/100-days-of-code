@@ -34,11 +34,17 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 
 **What I Covered Today**: Started learning Lists[] and indexing them today. Also got exposure to the more functions, random and split. Not feeling very well today so its been a pretty slow day, finding it hard to concentrate.
 
-### Day 4: Thursday 1st, Dec 2022
+### Day 4: Monday 5th, Dec 2022
 
-**What I Covered Today**: After a few days laid up in bed it was back to the grind as i continued on with learning about lists and indexing. Today also involved creating a rock/paper/scissors game where i needed to lean on my knowldge of if/elif/else statements, use of the random function and also ascii art for producing basic images. 
+**What I Covered Today**: After spending the last week laid up in bed it was back to the grind today as i continued on with learning about lists and indexing. Today also involved creating a rock/paper/scissors game where i needed to lean on my knowldge of if/elif/else statements, use of the random function and also ascii art for producing basic images. 
+
+I then moved on and tackled for loops and also got introduced to the the range function and created a Fizzbuzz game. For the end project in this section i was tasked with creating a random password generator. This was quite difficult but also very intersting. 
 
 ***Todays Output:** 
 Check out my rock/paper/scissors game created in Replit.
 
 https://replit.com/@hainesgreg/rock-paper-scissors-start#main.py
+
+Check out my random password generator created in Replit.
+
+https://replit.com/@hainesgreg/password-generator-start#main.py
