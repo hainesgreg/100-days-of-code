@@ -48,3 +48,11 @@ https://replit.com/@hainesgreg/rock-paper-scissors-start#main.py
 Check out my random password generator created in Replit.
 
 https://replit.com/@hainesgreg/password-generator-start#main.py
+
+### Day 7: Tuesday 6th, Dec 2022
+
+**What I Covered Today**: Today I started leraning about functions and while loops and how they compare to for loops. Also stated using Reeborg's world which is quite similar to Karel the robot which ive used briefly before. Its really good to help you start with thinking like a programmer.
+
+Will continue on with functions and while loops tomorrow before moving on to the next section.  
+
+**Thoughts**: Still only dedicating small chunks of time per day, about an hour in total. This is still working well so will continue on doing so for the time being. 
