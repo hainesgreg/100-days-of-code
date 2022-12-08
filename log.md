@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Tues 22nd Nov 2022
+### Day 1: Tues 22nd Nov 2022 (operators(= == != < >), control flow, intro to conditionals(if/else/elif)
 
 **About Me**: I started the 100DaysOfCode challenge today, focusing on learning Python. I work in the cloud computing domain (AWS/GCP) and have good open source tooling knowlegde (Terraform, Docker etc), but my coding skills (or lack of) have always held me back. I've attempted to learn to code more time that I care to remember, today I made the decision to stop making excuses, today is the day I hold myself accountable. 
 
@@ -13,7 +13,7 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 **Todays Output:** Today ive been working on writing a BMI calculator and also an app to tell you if a given year is a leap year, or not.
 
 
-### Day 2: Weds 23rd, Nov 2022
+### Day 2: Weds 23rd, Nov 2022 (conditionals, nested and multiple if statements)
 
 **What I Covered Today**: Continued on with conditionals today, nested and multiple if statements.
 
@@ -22,7 +22,7 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 **Todays Output:** I worked on a writing a pizza order app where i got to put my nested and multiple if statement knowledge to the test.
 
 
-### Day 3: Friday 25th, Nov 2022
+### Day 3: Friday 25th, Nov 2022 (logical operators AND/ OR/ NOT)
 
 **What I Covered Today**: Continued on with conditionals and tackled logical operators (AND / OR / NOT) today.
 
@@ -30,11 +30,11 @@ To begin with I wont be working on projects whilst i get a proper handel on the 
 
 ***Todays Output:** I created a true love calculator where you had to use the logical operator knowledge and also some built-in functions too, (count) and (lower).
 
-### Day 5: Monday 28th, Nov 2022
+### Day 5: Monday 28th, Nov 2022 (lists, indexing, random, split)
 
 **What I Covered Today**: Started learning Lists[] and indexing them today. Also got exposure to the more functions, random and split. Not feeling very well today so its been a pretty slow day, finding it hard to concentrate.
 
-### Day 6: Monday 5th, Dec 2022
+### Day 6: Monday 5th, Dec 2022 (lists, indexing, random, split)
 
 **What I Covered Today**: After spending the last week laid up in bed it was back to the grind today as i continued on with learning about lists and indexing. Today also involved creating a rock/paper/scissors game where i needed to lean on my knowldge of if/elif/else statements, use of the random function and also ascii art for producing basic images. 
 
@@ -49,10 +49,18 @@ Check out my random password generator created in Replit.
 
 https://replit.com/@hainesgreg/password-generator-start#main.py
 
-### Day 7: Tuesday 6th, Dec 2022
+### Day 7: Tuesday 6th, Dec 2022 (while loops)
 
 **What I Covered Today**: Today I started leraning about functions and while loops and how they compare to for loops. Also stated using Reeborg's world which is quite similar to Karel the robot which ive used briefly before. Its really good to help you start with thinking like a programmer.
 
 Will continue on with functions and while loops tomorrow before moving on to the next section.  
 
 **Thoughts**: Still only dedicating small chunks of time per day, about an hour in total. This is still working well so will continue on doing so for the time being. 
+
+### Day 8: Thursday 8th, Dec 2022 (while loops)
+
+**What I Covered Today**: Finished up with while loops today, still dont fully understand them just yet so will come back to them later in the course so that i dont stall my progress too much. Also made a start on the Hangman section of the course today, will make more of a dent in that tomorrow. 
+
+**Thoughts**: The concepts are now getting more difficult and its at the point in the course where i'd usually start to struggle and likely quit. Need to buckle down and persevere, I wont be beaten this time. Its the Endava Christmas party in London tonight so tomorrow will probably be a slow day as my brain will be working way below optimum.
+
+
