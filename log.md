@@ -64,7 +64,7 @@ Will continue on with functions and while loops tomorrow before moving on to the
 **Thoughts**: The concepts are now getting more difficult and its at the point in the course where i'd usually start to struggle and likely quit. Need to buckle down and persevere, I wont be beaten this time. Its the Endava Christmas party in London tonight so tomorrow will probably be a slow day as my brain will be working way below optimum.
 
 
-### Day 9 and 10 : Friday 9th/Tuesday 13th, Dec 2022 (hangman task)
+### Day 9 and 10 : Friday 9th/Tuesday 13th, Dec 2022 (hangman task, lots to cover)
 
 **What I Covered Today**: The last 2 days ive spent working on the hangman challenge which involved breaking down the pretty complex task of creating a hangman game. It involved using many of the skills learnt to date and was quite difficult for someone with my level of coding knowledge. I had to watch the solution videos a few times and needed help to complete this one. Will probably return to this task when i havwe more experience.
 
@@ -74,4 +74,10 @@ The task involved coding below:
 3) Checking if a player has won
 4) Keep track of a players lives
 5) Improve the user experience and add ASCII art (still TODO, will tackle that part tomorrow)
+
+### Day 11 and 12 : Weds 14th/Thurs 14th, Dec 2022 (finished the hangman task, intro to functions with inputs)
+
+**What I Covered Today**: Yesterday i completed the hangman task, lots learnt throughout this processs as documented above. Many of the skills learnt will no doubt come in handy when tackling similar tasks in the coming days/weeks.
+
+Started on the intro to functions with inputs today, looking forward to covering this section so i can start apply the knowledge in my tasks at work.
 
