@@ -81,3 +81,30 @@ The task involved coding below:
 
 Started on the intro to functions with inputs today, looking forward to covering this section so i can start apply the knowledge in my tasks at work.
 
+### Day 13, 14, 15 : Monday 19th, Tue 20th, Thurs 22nd Dec 2022 
+
+**What I Covered Today**: It's been a very slow week due to increased work commitments and my daughter Nelly has being off nursurey all week very ill, poor thing. Yes its been slow and ive not got much done this week but I'm not going to read too much into it, these things happen and cant be helped. I also break up for Christmas tomororw so over the next 2 weeks i'll be taking a step back from both work and coding as therer are more important things in life.
+
+Over the last 3 days ive continued working with functions and inputs and also understanding parameters and arguments in mored detail. I then worked on creating an area calculator which involed using the math function. 
+
+Im now working on creating a cipher app where you enter a word and either encode or decrypt it by shifting the letters. This task will be broken down into 4 parts.
+
+**Part 1**
+**Encryption**
+#1)Create a function called 'encrypt' that takes the 'text' and 'shift' as inputs
+#2)Inside the 'encrypt' function, shift each letter of the 'text' forwards in the alphabet by the shift amount and print the encrypted text.  
+#3)Call the encrypt function and pass in the user inputs. You should be able to test the code and encrypt a message. 
+
+**Part 2
+Decryption**
+
+**Part 3
+Reorganising our code**
+
+**Part 4
+Improvements and user experience **
+
+
+
+
+
