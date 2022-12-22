@@ -83,7 +83,7 @@ Started on the intro to functions with inputs today, looking forward to covering
 
 ### Day 13, 14, 15 : Monday 19th, Tue 20th, Thurs 22nd Dec 2022 
 
-**What I Covered Today**: It's been a very slow week due to increased work commitments and my daughter Nelly has being off nursurey all week very ill, poor thing. Yes its been slow and ive not got much done this week but I'm not going to read too much into it, these things happen and cant be helped. I also break up for Christmas tomororw so over the next 2 weeks i'll be taking a step back from both work and coding as therer are more important things in life.
+**What I Covered Today**: It's been a very slow week due to increased work commitments and my daughter Nelly has being off nursery all week very ill, poor thing. Yes its been slow and ive not got much done this week but I'm not going to read too much into it, these things happen and cant be helped. I also finish work for Christmas tomorrow so over the next 2 weeks i'll be taking a step back from both work and coding as therer are more important things in life.
 
 Over the last 3 days ive continued working with functions and inputs and also understanding parameters and arguments in mored detail. I then worked on creating an area calculator which involed using the math function. 
 
