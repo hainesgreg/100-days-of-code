@@ -95,6 +95,12 @@ Im now working on creating a cipher app where you enter a word and either encode
 #2)Inside the 'encrypt' function, shift each letter of the 'text' forwards in the alphabet by the shift amount and print the encrypted text.  
 #3)Call the encrypt function and pass in the user inputs. You should be able to test the code and encrypt a message. 
 
+
+### Day 16, 17, 18: Tues 3rd Jan 2023, Weds 4th Jan 2023, Thurs 5th Jan 2023
+
+After a long break over Christmas its back to the grind and picking up where i left off and finishing the Caeser Cipher app.
+
+**What I Covered on day 16 and 17**:
 **Part 2
 Decryption**
 
@@ -105,6 +111,11 @@ Reorganising our code**
 Improvements and user experience **
 
 
+**What I Covered on day 18, 5th Jan 2023**:
 
+Started a new topic today, focusing on another data type in Dictionaries. Went through what a dictionary is, how to update, edit etc.
 
+### Day 19: Monday 9th Jan 2023 ###
+
+Continued on the dictionaries today....
 
