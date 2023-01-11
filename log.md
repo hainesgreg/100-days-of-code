@@ -101,6 +101,7 @@ Im now working on creating a cipher app where you enter a word and either encode
 After a long break over Christmas its back to the grind and picking up where i left off and finishing the Caeser Cipher app.
 
 **What I Covered on day 16 and 17**:
+
 **Part 2
 Decryption**
 
@@ -119,3 +120,6 @@ Started a new topic today, focusing on another data type in Dictionaries. Went t
 
 Continued on the dictionaries today....
 
+### Day 20: Tuesday 10th Jan 2023 ###
+
+Continued on the dictionaries today....
