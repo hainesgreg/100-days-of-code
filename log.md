@@ -130,7 +130,11 @@ Stated with function and outputs today....
 
 ### Day 22: Monday 16th Jan 2023 ###
 
-Continued with function and outputs today....
+Continued with functions with outputs and multiple return values today.
+
+created a calculator app:
+
+https://replit.com/@hainesgreg/calculator-start#main.py
 
 ### Day 23:  ###
 
