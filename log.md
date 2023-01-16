@@ -127,3 +127,23 @@ Continued on the dictionaries today....
 ### Day 21: Thursday 12th Jan 2023 ###
 
 Stated with function and outputs today....
+
+### Day 22: Monday 16th Jan 2023 ###
+
+Continued with function and outputs today....
+
+### Day 23:  ###
+
+Stated with.....
+
+### Day 24:  ###
+
+Stated with....
+
+### Day 25:  ###
+
+Stated with...
+
+### Day 26:  ###
+
+Stated with...
