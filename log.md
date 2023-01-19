@@ -146,10 +146,15 @@ Finished up with functions with outputs today and introduced recursion.
 
 The last few days have been pretty slow as thins get more complex. Yesterday I called for backup and invested in a mentor from mentorcruise to help me push on through. This is where id usualy think about quitting, not this time.
 
-TODO: Need to start creating better notes for reference.
-
 completed the calculator app:
 https://replit.com/@hainesgreg/calculator-start#main.py
+
+Also starting reading up on how Python is used within DevOps:
+
+https://realpython.com/tutorials/devops/
+https://devopscube.com/python-for-devops/
+
+TODO: Need to start creating better notes for reference.
 
 ### Day 25:  ###
 
