@@ -153,6 +153,7 @@ Also starting reading up on how Python is used within DevOps:
 
 https://realpython.com/tutorials/devops/
 https://devopscube.com/python-for-devops/
+https://realpython.com/python-virtual-environments-a-primer/ (virtual envs)
 
 TODO: Need to start creating better notes for reference.
 
