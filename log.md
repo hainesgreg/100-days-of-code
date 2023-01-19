@@ -132,17 +132,24 @@ Stated with function and outputs today....
 
 Continued with functions with outputs and multiple return values today.
 
-created a calculator app:
+started to create a calculator app:
 
 https://replit.com/@hainesgreg/calculator-start#main.py
 
-### Day 23:  ###
+### Day 23:  Tuesday 17th Jan 2023 ###
 
-Stated with.....
+Continued with functions with outputs today.
 
-### Day 24:  ###
+### Day 24:  Thursday 19th Jan 2023 ### (functions with outputs - recursion)
 
-Stated with....
+Finished up with functions with outputs today and introduced recursion. 
+
+The last few days have been pretty slow as thins get more complex. Yesterday I called for backup and invested in a mentor from mentorcruise to help me push on through. This is where id usualy think about quitting, not this time.
+
+TODO: Need to start creating better notes for reference.
+
+completed the calculator app:
+https://replit.com/@hainesgreg/calculator-start#main.py
 
 ### Day 25:  ###
 
