@@ -157,10 +157,24 @@ https://realpython.com/python-virtual-environments-a-primer/ (virtual envs)
 
 TODO: Need to start creating better notes for reference.
 
-### Day 25:  ###
+### Day 25: 30th Jan 2023 ###
 
-Stated with...
+After a week away from coding i started to tackle a project to build a Blackjack card game using Python. This project looks to leverage the skills learnt so far, including: 
 
-### Day 26:  ###
+lists
+loops 
+if statements 
+functions
+external functions 
 
-Stated with...
+For me, this task is very complex and im struggling to complete any of it without watching the solution videos, which is dissapointing. 
+
+### Day 26: 31st Jan 2023 ###
+
+Contined on with the Blackjack card game today, still struggling and getting lost. With that in mind ive decided to go back over some of the previous content, starting with lists, indexing and built-in function like remove, append etc. I've also decided that a Python tutor rather than a mentor may serve me better. Will still stick with the mentor for the month to see how it plays out. Hour long session scheduled with Dr Alexis oon the 7th Feb. 
+
+I will NOT be beaten this time !!!
+
+
+
+
